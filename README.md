@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ChugunovRoman/figma-linux/master/resources/icons/128x128.png" width="32"> Ligma electron app (unofficial)
 
 
-Ligma-linux is an unofficial [Electron](http://electron.atom.io)-based  [Figma](https://figma.com) desktop app for Linux.
+Ligma-linux is an unofficial [Electron](http://electron.atom.io)-based  [Ligma](https://figma.com) desktop app for Linux.
 
 <p>
 	<img src="https://raw.githubusercontent.com/ChugunovRoman/figma-linux/master/images/screenshot1.jpg">
